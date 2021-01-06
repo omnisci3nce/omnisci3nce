@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Joshua Rowe a.k.a Omniscient.
+
 <!--
 **omnisci3nce/omnisci3nce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
