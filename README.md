@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi.
+Software engineer currently working in the access control & physical security industry.
 
 Interested in compilers, gamedev, distributed systems, physical security, typescript/ocaml😄  c/zig/rust🤔 a little bit.
 
