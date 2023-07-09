@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Interested in compilers, gamedev, distributed systems, physical security, typescript/ocaml😄  c/zig/rust🤔 a little bit.
+Interested in compilers, gamedev, distributed systems, physical security.
 
 ### 📊 Statistics
 
