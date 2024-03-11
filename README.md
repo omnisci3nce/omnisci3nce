@@ -2,7 +2,11 @@
 
 Software engineer based in Melbourne, Australia.
 
-I'm interested in most aspects of programming. Currently I'm focused on learning about 3D graphics and optimising for performance.
+Currently working in the CAD & DFM software space.  
+Previously: physical access control industry (RFID & building security).
+
+Interested in compilers, gamedev (especially engine tech), distributed systems, physical security, renewable energy.  
+Currently I'm focused on learning about 3D graphics and optimising for performance.
 
 I have worked professionally with Rust, C, and TypeScript, alongside tools such as Docker, SQLite, PostgreSQL, React, and more.
 
