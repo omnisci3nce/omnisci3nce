@@ -17,7 +17,3 @@ I have worked professionally with Rust, C, and TypeScript, alongside tools such 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,ts,ocaml,sqlite,neovim,docker)](https://skillicons.dev)
 
 ---
-
-### 📊 Statistics
-
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omnisci3nce)
