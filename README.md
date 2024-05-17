@@ -2,7 +2,7 @@
 
 Software engineer based in Melbourne, Australia.
 
-Currently working in the CAD & DFM software space.  
+Currently writing Rust in the CAD & DFM software space.  
 Previously: physical access control industry (RFID & building security).
 
 Interested in compilers, graphics (OpenGL / Vulkan), game engines, distributed systems, functional programming, renewable energy.  
