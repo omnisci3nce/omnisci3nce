@@ -2,13 +2,13 @@
 
 Software engineer based in Melbourne, Australia.
 
-Currently writing Rust in the CAD & DFM software space.  
-Previously: physical access control industry (RFID & building security).
+Currently working as an embedded systems dev using C & Rust, but also cover backend and app development when needed.
+Previously: CAD & DFM, physical access control (RFID & building security).
 
-Interested in compilers, graphics (OpenGL / Vulkan), game engines, distributed systems, functional programming, renewable energy.  
-Currently I'm focused on learning about 3D graphics and optimising for performance.
+Interested in compilers, graphics (OpenGL / Vulkan), game engines, distributed systems, functional programming, pottery, sports, renewable energy.  
 
-I have worked professionally with Rust, C, and TypeScript, alongside tools such as Docker, SQLite, PostgreSQL, React, and more.
+I have worked professionally with Rust, C, and TypeScript, alongside tools such as Docker, SQLite, PostgreSQL, React, and more.  
+Outside of work I also dabble in OCaml.
 
 ---
 
