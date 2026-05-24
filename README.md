@@ -2,7 +2,6 @@
 
 Software engineer based in Melbourne, Australia.
 
-Currently working as an embedded systems dev using C & Rust, but also cover backend and app development when needed.
 Previously: CAD & DFM, physical access control (RFID & building security).
 
 Interested in compilers, graphics (OpenGL / Vulkan), game engines, distributed systems, functional programming, pottery, sports, renewable energy.  
