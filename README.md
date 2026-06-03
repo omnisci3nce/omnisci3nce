@@ -1,13 +1,12 @@
-### Hi there 👋
+### Joshua Rowe
 
 Software engineer based in Melbourne, Australia.
 
-Previously: CAD & DFM, physical access control (RFID & building security).
+Industry experience: CAD & DFM, Physical Access Control Systems (RFID & building security).
 
-Interested in compilers, graphics (OpenGL / Vulkan), game engines, distributed systems, functional programming, pottery, sports, renewable energy.  
+Focused on embedded systems, protocols, infra and system design. Also interested in compilers, graphics (OpenGL / Vulkan), game engines, distributed systems, functional programming, pottery, and sports.  
 
-I have worked professionally with Rust, C, and TypeScript, alongside tools such as Docker, SQLite, PostgreSQL, React, and more.  
-Outside of work I also dabble in OCaml.
+Skills: Rust, C, TypeScript, OCaml, Docker, SQLite, PostgreSQL, Terraform, Hashicorp suite, React, React Native, and more.
 
 ---
 
