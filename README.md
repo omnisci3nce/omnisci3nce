@@ -10,6 +10,6 @@ Skills: Rust, C, TypeScript, OCaml, Docker, SQLite, PostgreSQL, Terraform, Hashi
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,ts,ocaml,sqlite,neovim,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,ts,ocaml,sqlite,docker)](https://skillicons.dev)
 
 ---
